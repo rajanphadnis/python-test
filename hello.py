@@ -5,7 +5,7 @@ def helloWorld():
     """This is a docstring
     """
     # Block Comment
-    print("something random") # Print Hellow World
+    print("merge conflict") # Print Hellow World
 
     thisIsADict: dict[str, Car] = {}
     thisIsADict["owner1"] = Car(brand = "mazda")
