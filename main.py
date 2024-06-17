@@ -1,3 +1,3 @@
-from hello import helloWorld
+from hello import goodbyeWorld
 
-helloWorld()
+goodbyeWorld()
