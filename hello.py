@@ -1,11 +1,11 @@
 from classes import Car
 from tqdm import tqdm
 
-def helloWorld(inputtedText: str):
+def helloWorld():
     """This is a docstring
     """
     # Block Comment
-    print(inputtedText) # Print Hellow World
+    print("something random") # Print Hellow World
 
     thisIsADict: dict[str, Car] = {}
     thisIsADict["owner1"] = Car(brand = "mazda")
