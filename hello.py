@@ -6,7 +6,6 @@ def helloWorld():
     """
     # Block Comment
     print("not conflicting") # Print Hellow World
-
     thisIsADict: dict[str, Car] = {}
     thisIsADict["owner1"] = Car(brand = "mazda")
     thisIsADict["owner2"] = Car(brand = "tesla")
